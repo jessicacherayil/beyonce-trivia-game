@@ -1,0 +1,4 @@
+Dear Professors,
+	In order for our code to work, you must download a special font, Steelfish, into your font book. We've included this font in our submitted folder. Sorry for the inconvenience, but we really care about aesthetics! We think Steelfish makes our GUI more authentically Beyoncé.
+
+Jess + Sheree
